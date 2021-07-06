@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  L5C7
 //
-//  Created by 小池　亮義 on 2021/07/06.
+//  Created by akiyoshi220 on 2021/07/06.
 //
 
 import UIKit
